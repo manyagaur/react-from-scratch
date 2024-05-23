@@ -1,10 +1,11 @@
-import ListofFood from "./ListofFood"
+import ListOfObjects from "./ListOfObjects"
+
 
 function App() {
  
   return (
     <>
-  <ListofFood/>
+    <ListOfObjects/>
     </>
   )
 }

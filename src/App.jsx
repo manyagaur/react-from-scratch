@@ -1,11 +1,11 @@
-import ListOfObjects from "./ListOfObjects"
+import ToDoList from "./ToDoList"
 
 
 function App() {
  
   return (
     <>
-    <ListOfObjects/>
+    <ToDoList/>
     </>
   )
 }

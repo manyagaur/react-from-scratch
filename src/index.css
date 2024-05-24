@@ -97,21 +97,15 @@ p{
 
 .add-button{
 
-  background:linear-gradient(to right, #977ADC, #70D7E9);
-  border: none;
+  background: linear-gradient(to right, #ff69b4, #ff6a9a, #ff6b7f, #ff6d64, #ff6f49);
+  border: solid rgb(232, 137, 148) 2px;
   color: #fff;
-  padding: 10px 20px;
-  
+  padding: 6px 20px; 
   font-size: 16px;
   cursor: pointer;
 }
 
 .task-input{
-
-  background:linear-gradient(to right, #c7c2d4, #99cfd9);
-  border: none;
-  color: #fff;
-  padding: 10px 20px;
+  padding: 6px 20px;
   font-size: 16px;
-  cursor: pointer;
 }
